@@ -1,4 +1,4 @@
-# ginseng-strip-2002
+# enshrouded-server-config
 A Server Configuration Tool for an Enshrouded Game Server
 # Enshrouded Server Config Editor (GUI)
 
